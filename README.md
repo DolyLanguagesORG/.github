@@ -30,7 +30,11 @@ El código del proyecto vive en los repos de trabajo:
 - [`dolynation-atl-back`](https://github.com/DolyLanguagesORG/dolynation-atl-back) — API REST (NestJS)
 - [`dolynation-tonatiuh-front`](https://github.com/DolyLanguagesORG/dolynation-tonatiuh-front) — Frontend (Next.js)
 - [`dolynation-tlalli-infra`](https://github.com/DolyLanguagesORG/dolynation-tlalli-infra) — Infraestructura / Docker Compose
-- [`dolynation-ehecatl-docs`](https://github.com/DolyLanguagesORG/dolynation-ehecatl-docs) — Documentación
+- [`dolynation-ehecatl-docs`](https://github.com/DolyLanguagesORG/dolynation-ehecatl-docs) — **Documentación, convenciones y anteproyecto**
+
+Y [`doly-languages`](https://github.com/DolyLanguagesORG/doly-languages) — el
+monorepo original, **archivado y sin uso**: la documentación vigente vive en
+`dolynation-ehecatl-docs`.
 
 ## Notas
 
