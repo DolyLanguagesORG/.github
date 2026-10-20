@@ -55,16 +55,24 @@ Todo el material del proyecto vive en
 
 ## Equipo
 
-| Cuenta | Persona | Rol |
-| --- | --- | --- |
-| [@XxjesusalbertoxX](https://github.com/XxjesusalbertoxX) | Jesús Alberto Villarreal Pérez | Scrum Master / Lead Developer |
-| [@SebastianRdzC04](https://github.com/SebastianRdzC04) | Sebastián Rodríguez Contreras | Product Owner |
-| [@AzaelG26](https://github.com/AzaelG26) | Aozmar Azael García Candela | Desarrollador Backend (principal) |
-| [@EliasGalarza333](https://github.com/EliasGalarza333) | José Elías Galarza Pedroza | Desarrollador Backend (soporte) |
-| [@y0ADQ1](https://github.com/y0ADQ1) | Juan Antonio Deras Durón | Desarrollador Frontend |
+Los roles y responsabilidades son los del §11.2 del
+[anteproyyecto](https://github.com/DolyLanguagesORG/dolynation-ehecatl-docs/blob/develop/anteproyecto/anteproyecto-dolynation.md).
+
+| Cuenta | Persona | Rol | De qué se encarga | Repos donde es code owner |
+| --- | --- | --- | --- | --- |
+| [@XxjesusalbertoxX](https://github.com/XxjesusalbertoxX) | Jesús Alberto Villarreal Pérez | **Scrum Master / Lead Developer** | Coordinación del flujo en GitHub, CI/CD, revisión de PRs, releases e infraestructura | `atl-back`, `tlalli-infra`, `tonatiuh-front`, `ehecatl-docs` |
+| [@SebastianRdzC04](https://github.com/SebastianRdzC04) | Sebastián Rodríguez Contreras | **Product Owner** | Prioriza el backlog, valida los criterios de aceptación y aprueba el cierre de cada issue | `ehecatl-docs` |
+| [@AzaelG26](https://github.com/AzaelG26) | Aozmar Azael García Candela | **Desarrollador Backend (principal)** | Módulos del backend, autenticación criptográfica, conector con la IA y motor de evaluación | `atl-back`, `tlalli-infra` |
+| [@EliasGalarza333](https://github.com/EliasGalarza333) | José Elías Galarza Pedroza | **Desarrollador Backend (soporte)** | DTOs, endpoints de perfil, historial, módulo administrativo y QA de integración | `atl-back`, `tlalli-infra` |
+| [@y0ADQ1](https://github.com/y0ADQ1) | Juan Antonio Deras Durón | **Desarrollador Frontend** | Maquetado responsivo, visor de lectura, pop-up contextual y dashboard | `tonatiuh-front`, `ehecatl-docs` |
 
 Además, [`@JesusDelToroRobledoUTT`](https://github.com/JesusDelToroRobledoUTT)
 tiene acceso de solo lectura como asesor del proyecto.
+
+> **Para aparecer en la pestaña *People* de la organización**, cada integrante
+> tiene que activar su perfil público desde su propia cuenta: *Settings →
+> Public profile → Make this organization public*. GitHub no permite que otro
+> lo haga por ellos.
 
 > Los repos llevan nombres de deidades nahuas: **Atl** (agua), **Tonatiuh**
 > (sol), **Tlalli** (tierra) y **Ehecatl** (viento).
